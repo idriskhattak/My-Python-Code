@@ -1,2 +1,2 @@
 # My-Python-Code
-Include all code that i practice for python
+These are all the programs from which i start learning python

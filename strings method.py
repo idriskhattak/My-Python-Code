@@ -1,0 +1,10 @@
+name='idrees'
+print(len(name))
+print(name.capitalize())
+print(name.find('e'))
+print(name.upper())
+print(name.lower())
+print(name.replace('e','i'))
+print(name*4)
+print(name.isdigit())
+print(name.isalpha())
